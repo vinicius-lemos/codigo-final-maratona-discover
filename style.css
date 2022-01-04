@@ -1,7 +1,6 @@
 /* Global ========================================= */
 :root {
   --dark-blue: #363f5f;
-  --dark-green: #2D4A22;
   --green: #49AA26;
   --light-green: #3dd705;
   --red: #e92929;
@@ -98,7 +97,7 @@ button:hover {
 
 /* Header ========================================= */
 header {
-  background: var(--dark-green);
+  background: #2D4A22;
   padding: 2rem 0rem 12rem;
   text-align: center;
 }
